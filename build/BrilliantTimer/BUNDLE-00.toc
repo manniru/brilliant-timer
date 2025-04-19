@@ -1,0 +1,3 @@
+([('BrilliantTimer',
+   '/Users/mannir/esystems/brilliant-timer/dist/BrilliantTimer',
+   'EXECUTABLE')],)
